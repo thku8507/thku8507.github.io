@@ -1,4 +1,4 @@
 # Theo's Portfolio Home Page
 ## Welcome to my page!
 
-![Mount Aniakchak](img/Mount Aniakchak - 25 MB.png)
+<img src="/img/Mount%20Aniakchak%20-%2025%20MB.png" alt="Mount Aniakchak"width=200>
