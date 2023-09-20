@@ -1,5 +1,4 @@
-# Theo's Portfolio Home Page
-## Welcome to my page!
+# Earth Data Analytics Portfolio
 
 ***
 
