@@ -1,4 +1,8 @@
 # Theo's Portfolio Home Page
 ## Welcome to my page!
 
-<img src="/img/Mount Aniakchak - 25 MB.png" alt="Mount Aniakchak" width=200>
+***
+
+Projects:
+
+[August Temperature Over Time in Summit County, CO](https://thku8507.github.io/Notebooks/summit_county_temps.html)
